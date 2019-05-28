@@ -1,11 +1,13 @@
 Package: mutatemore
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Adds Helper Mutate Functions
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Author: Will Bonnell
+Maintainer: Will Bonnell <wtb3na@virginia.edu>
+Description: Adds several mutate-related helper functions
+License: GPL-3
 Encoding: UTF-8
+Imports: 
+  dplyr
 LazyData: true
+RoxygenNote: 6.1.1.9000
